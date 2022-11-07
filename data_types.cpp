@@ -10,10 +10,12 @@ int main()
     power of 10*/
     float float_scientific = 97e4;
     double double_number = 10.5;
+    char character = 'b';
 
     // print values of variables
     cout << "int = " << integer_number << endl;
     cout << "float = " << float_number << endl;
     cout << "float_scientific = " << float_scientific << endl;
     cout << "double = " << double_number << endl;
+    cout << "character = " << character << endl;
 }
